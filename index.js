@@ -1,6 +1,6 @@
 // require the discord.js module
 const Discord = require('discord.js');
-const { prefix, token, giphyToken } = require ('./config.json');
+const { *, NTg4NzI0NjM4Njg3ODIxODM1.XQOZZQ.rJIzoGqsNvsR4tCuFoOxjb3NFnM, giphyToken } = require ('./config.json');
 const client = new Discord.Client ();
 
 var GphApiClient = require('giphy-js-sdk-core')
